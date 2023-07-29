@@ -1,3 +1,5 @@
+"""created a jpg to png converter using python also got to learn about os module and some file I/O practice"""
+
 import sys
 import os
 from PIL import Image
